@@ -1,4 +1,5 @@
 # CodePush Management CLI ![Node.js CI](https://github.com/shm-open/code-push-cli/workflows/Node.js%20CI/badge.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkomissargithuba%2Fcode-push-cli.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkomissargithuba%2Fcode-push-cli?ref=badge_shield)
 
 
 [[Chinese version 中文版]](./README.cn.md)
@@ -998,3 +999,7 @@ A: An application running a CodePush SDK that doesn't support code signing will 
 Q: I've lost my private key, what should I do in this situation?
 
 A: We do not have a copy of your key so you will need to create new private/public key pair, release a new binary update using the new public key, and then release a CodePush update using your new private key.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkomissargithuba%2Fcode-push-cli.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkomissargithuba%2Fcode-push-cli?ref=badge_large)
